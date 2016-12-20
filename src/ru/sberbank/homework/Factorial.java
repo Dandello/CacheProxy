@@ -4,5 +4,5 @@ import java.math.BigInteger;
 
 public interface Factorial {
     @Cache
-    BigInteger factorial(int num);
+    BigInteger factorial (int num);
 }
